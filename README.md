@@ -11,7 +11,6 @@
 - 🌱 Currently learning **C**, **Java**, and **Data Structures**
 - 💡 Passionate about **Web Development**, **Clean UI**, and **Building real-world projects**
 - 🧩 Built and deployed **3 responsive landing pages** — Amazon, Apple & Magazine
-- 🎶 Currently working on a **Music Player project**
 - ⚡ Exploring full-stack development (Frontend → Java → Backend)
 
 ---
