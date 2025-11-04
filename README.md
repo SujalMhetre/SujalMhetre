@@ -26,8 +26,8 @@
 
 ### 🌐 Projects
 - 📰 [Magazine Landing Page](https://sujalmhetre.github.io/Magazine-Landing-Page/)  
-- 🍎 [Apple Landing Page](#)  
-- 🛒 [Amazon Landing Page](#)  
+- 🍎 [Apple Landing Page](https://sujalmhetre.github.io/Apple-Inspired-Landing-Page/)  
+- 🛒 [Amazon Landing Page](https://sujalmhetre.github.io/Amazon-Inspired-Landing-Page/)  
 
 ---
 
