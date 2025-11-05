@@ -2,7 +2,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=SujalMhetre&color=blue)
 
-💻 **Frontend Developer in progress | BE (E&TC) Graduate | Learning Java & Full Stack Development**
+💻 ** BE (E&TC) Graduate | Aspiring Full stack developer |Learning Java & Frontend Development**
 
 ---
 
