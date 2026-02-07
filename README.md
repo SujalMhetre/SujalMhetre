@@ -82,6 +82,3 @@
 - 🛒 [Amazon Landing Page](https://sujalmhetre.github.io/Amazon-Inspired-Landing-Page/) – Frontend & layout project  
 
 ---
-
-# 📈 Visitor Count
-![Visitor Count](https://hitcount.xyz/page/github.com/SujalMhetre/SujalMhetre/readme.svg)
